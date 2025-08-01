@@ -32,7 +32,6 @@ namespace JobApplicationTracker.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] CreateJobApplicationDto dto)
         {
-            debugger
             var created = await _service.CreateAsync(dto);
             return CreatedAtAction(nameof(GetById), new { id = created.Id }, created);
         }
