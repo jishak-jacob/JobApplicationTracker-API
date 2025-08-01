@@ -35,4 +35,13 @@ Technologies Used
 - Swagger UI
 - xUnit
 
+How to Run the Backend
+
+1. Prerequisites:
+   - [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) installed 
+
+2. Clone the repository:
+   git clone https://github.com/your-username/JobApplicationTracker-API.git
+   cd JobApplicationTracker-API/JobApplicationTracker.API
+
 
