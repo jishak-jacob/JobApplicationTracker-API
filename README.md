@@ -16,8 +16,8 @@ ASP.NET Core 9 Web API backend for the Job Application Tracker. Built using Clea
 
  Project Structure
 
-JobApplicationTracker/
-│
+JobApplicationTracker-API
+
 - JobApplicationTracker.API/ → API layer (Controllers, Program.cs)
 -  JobApplicationTracker.Application/ → Application logic (DTOs, Interfaces, Services, Validators)
 -  JobApplicationTracker.Domain/ → Domain models/entities
