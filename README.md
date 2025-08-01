@@ -18,14 +18,13 @@ ASP.NET Core 9 Web API backend for the Job Application Tracker. Built using Clea
 
 JobApplicationTracker/
 │
-├── JobApplicationTracker.API/ → API layer (Controllers, Program.cs)
-├── JobApplicationTracker.Application/ → Application logic (DTOs, Interfaces, Services, Validators)
-├── JobApplicationTracker.Domain/ → Domain models/entities
-├── JobApplicationTracker.Infrastructure/ → EF Core DB context & Repositories
-└── JobApplicationTracker.Tests/ → Unit tests
+- JobApplicationTracker.API/ → API layer (Controllers, Program.cs)
+-  JobApplicationTracker.Application/ → Application logic (DTOs, Interfaces, Services, Validators)
+-  JobApplicationTracker.Domain/ → Domain models/entities
+-  JobApplicationTracker.Infrastructure/ → EF Core DB context & Repositories
+-  JobApplicationTracker.Tests/ → Unit tests
 
 
----
 
 Technologies Used
 
