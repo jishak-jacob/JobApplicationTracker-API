@@ -43,4 +43,7 @@ How to Run the Backend
    git clone https://github.com/your-username/JobApplicationTracker-API.git
    cd JobApplicationTracker-API/JobApplicationTracker.API
 
+3. Once the backend is running, you can access the Swagger UI for detailed API documentation and testing at:
+http://localhost:5222/swagger
+
 
